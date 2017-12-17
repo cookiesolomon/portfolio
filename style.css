@@ -1,0 +1,60 @@
+ul li {
+    list-style-image: url(heart.png);
+}
+
+#header {
+color: #dce6e8; 
+font-family: cursive;
+background-color: #644453;
+width: 98%;
+height: 100px;
+text-align: center;
+margin-left: 1%;
+margin-right: 1%;
+padding-top: 10px;
+
+
+}
+
+#main {
+
+    background-color: #644453;
+
+
+}
+
+#left {
+    background-color: #3c4648;
+    width: 26.3%;
+    height: 600px;
+    float: left;
+    margin-right: 1%;
+    margin-left: 1%;
+    padding-right: 5px;
+    background-size: auto;
+    overflow: auto;
+    
+    }
+ 
+
+#content {
+font-size: 40px;
+background-color: #D0C0A3;
+width: 70%;
+float: left;
+height: 600px;
+margin-right: .5%;
+text-align: center;
+}
+
+
+#footer {
+background-color: #644453;
+width: 98%;
+height: 100px;
+clear: both;
+text-align: center;
+margin-left: 1%;
+margin-right: 1%;
+padding-top: 10px;
+}
