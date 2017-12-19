@@ -2,7 +2,7 @@ ul li {
     list-style-image: url(heart.png);
 }
 
-#header {
+.header {
 color: #dce6e8; 
 font-family: cursive;
 background-color: #644453;
@@ -16,14 +16,14 @@ padding-top: 10px;
 
 }
 
-#main {
+.main {
 
     background-color: #644453;
 
 
 }
 
-#left {
+.left {
     background-color: #3c4648;
     width: 26.3%;
     height: 600px;
@@ -37,7 +37,7 @@ padding-top: 10px;
     }
  
 
-#content {
+.content {
 font-size: 40px;
 background-color: #D0C0A3;
 width: 70%;
@@ -48,7 +48,7 @@ text-align: center;
 }
 
 
-#footer {
+.footer {
 background-color: #644453;
 width: 98%;
 height: 100px;
